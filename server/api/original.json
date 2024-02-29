@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Juan Pérez",
+      "email": "juan.perez@example.com",
+      "subscriber": true
+    },
+    {
+      "id": 2,
+      "name": "María González",
+      "email": "maria.gonzalez@example.com",
+      "subscriber": false
+    },
+    {
+      "id": 3,
+      "name": "Carlos Rodríguez",
+      "email": "carlos.rodriguez@example.com",
+      "subscriber": true
+    },
+    {
+      "id": 4,
+      "name": "Laura Martínez",
+      "email": "laura.martinez@example.com",
+      "subscriber": false
+    },
+    {
+      "id": 5,
+      "name": "Pedro Sánchez",
+      "email": "pedro.sanchez@example.com",
+      "subscriber": true
+    },
+    {
+      "id": 6,
+      "name": "Isabel López",
+      "email": "isabel.lopez@example.com",
+      "subscriber": false
+    },
+    {
+      "id": 7,
+      "name": "Antonio Herrera",
+      "email": "antonio.herrera@example.com",
+      "subscriber": true
+    },
+    {
+      "id": 8,
+      "name": "Carmen Flores",
+      "email": "carmen.flores@example.com",
+      "subscriber": false
+    },
+    {
+      "id": 9,
+      "name": "Miguel Torres",
+      "email": "miguel.torres@example.com",
+      "subscriber": true
+    },
+    {
+      "id": 10,
+      "name": "Ana Jiménez",
+      "email": "ana.jimenez@example.com",
+      "subscriber": false
+    }
+  ]
+}

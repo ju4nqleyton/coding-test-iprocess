@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Simple API for take-home challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run api\"",
+    "server": "nodemon index.js",
+    "api": "echo 'Local API listening on PORT 5001' & json-server --watch api/db.json -p 5001"
+  },
+  "author": "Juan Quintero",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "concurrently": "^8.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "json-server": "^1.0.0-alpha.23",
+    "nodemon": "^2.0.22",
+    "npm-run-all": "^4.1.5"
+  }
+}
