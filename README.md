@@ -1,42 +1,23 @@
-## README.MD
+# Prueba Técnica - Desarrollador Frontend Junior
 
-### Descripción
+## Descripción
 
-Esta aplicación web se divide en dos partes autónomas:
+Esta aplicación web se divide en dos partes autónomas y tiene como objetivo demostrar la implementación de un CRUD.
 
-**1. Backend:**
+### 1. Backend:
 
-- Se ha construido una API utilizando Node.js, Express y JSON.
+Se ha construido una API utilizando Node.js, Express y JSON.
 
-**2. Frontend:**
+### 2. Frontend:
 
-- Proporciona una interfaz visual que permite a los usuarios interactuar con la aplicación.
-- Desarrollado utilizando React, React Router DOM, Axios, tanstack/react-table y react-toastify.
+Proporciona una interfaz visual que permite a los usuarios interactuar con la aplicación. Desarrollado utilizando:
 
-### Instrucciones de Instalación
+- React
+- React Router DOM
+- Axios
+- tanstack/react-table
+- react-toastify
 
-#### 1. Instalar dependencias del Backend:
+## Capturas de Pantalla
 
-```bash
-npm install
-```
-
-#### 2. Iniciar el Servidor del Backend:
-
-Ejecutar el siguiente comando para iniciar el servidor Node.js y la API en el puerto 5001:
-
-```bash
-npm start
-```
-
-#### 3. Instalar dependencias del Frontend:
-
-```bash
-npm install
-```
-
-#### 4. Iniciar el Servidor del Frontend:
-
-```bash
-npm run dev
-```
+![CRUD](./screenshot.png)
